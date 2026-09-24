@@ -1,8 +1,8 @@
-# Hugo R. Kruytgebouw — 3D printable model
+# Hugo R. Kruytgebouw: 3D printable model
 
 A 3D model of the Hugo R. Kruytgebouw at Utrecht Science Park, created by **Vinicius Lube** over a week of modeling and shared freely for anyone who wants to 3D print it.
 
-Building name: [Hugo R. Kruytgebouw — Utrecht University](https://www.uu.nl/hugo-r-kruytgebouw).
+Building name: [Hugo R. Kruytgebouw: Utrecht University](https://www.uu.nl/hugo-r-kruytgebouw).
 
 ## Download the STL
 
@@ -30,7 +30,7 @@ You may download, print, copy, share, and adapt the model, including for commerc
 
 Suggested attribution:
 
-> “Hugo R. Kruytgebouw — 3D printable model” by Vinicius Lube, https://github.com/vince-npec/kruytgebouw-3d-print, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: none.
+> “Hugo R. Kruytgebouw: 3D printable model” by Vinicius Lube, https://github.com/vince-npec/kruytgebouw-3d-print, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: none.
 
 If you modify the model, replace “Changes: none” with a description of your changes.
 
