@@ -12,7 +12,7 @@ You can also [view the STL on GitHub](Kruyt-Building_by_Vinicius_Lube.stl).
 
 ## Printing
 
-The model measures **250 × 249.7 × 100 mm** (width × depth × height) when imported in millimeters. Its height has been corrected from 150 mm to 100 mm, with width and depth unchanged, to restore the proportions confirmed by the creator.
+The model measures **250 × 249.7 × 100 mm** (width × depth × height) when imported in millimeters.
 
 1. Download the STL and open it in your preferred slicer.
 2. Check the size and orientation before slicing. STL files do not specify physical units, so choose the intended print size in your slicer.
